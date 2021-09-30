@@ -1,14 +1,11 @@
+using System.Threading;
 using NUnit.Framework;
 
+//[assembly: Apartment(ApartmentState.STA)]
 namespace STATests
 {
     public class Tests
     {
-        [SetUp]
-        public void Setup()
-        {
-        }
-
         [Test]
         public void Test1()
         {
