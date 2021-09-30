@@ -78,8 +78,8 @@ fabric.properties
 bin
 obj
 
-.idea/.idea.STATests/.idea/projectSettingsUpdater.xml
-.idea/.idea.STATests/.idea/workspace.xml
+STATests/.idea/.idea.STATests/.idea/projectSettingsUpdater.xml
+STATests/.idea/.idea.STATests/.idea/workspace.xml
 
 .idea/.idea.STATests/.idea/.gitignore
 .idea/.idea.STATests/.idea/encodings.xml
